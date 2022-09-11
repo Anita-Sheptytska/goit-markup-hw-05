@@ -183,6 +183,10 @@ ul {
 .list-nav .link:hover::after {
     opacity: 1;
 }
+
+.main-nav .list-item {
+    position: relative;
+}
 /*Hero*/
 
 .hero .btn {
